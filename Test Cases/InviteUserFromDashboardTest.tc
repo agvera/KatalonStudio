@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InviteUserFromDashboardTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd1e32cb-71f2-474f-b72f-da351829d16a</testCaseGuid>
+   <variable>
+      <defaultValue>'new Date().getTime()'</defaultValue>
+      <description></description>
+      <id>ee8d68f1-0678-4e18-b996-977b9e6cc39e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
